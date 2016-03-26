@@ -15,9 +15,9 @@ The library makes the use of Promises. Simple learn promises byu watching this v
 
 Since the library will use Promises, maybe you need to update your Node installation:
 
-'sudo npm cache clean -f'
-'sudo npm install -g n'
-'sudo n stable'
+    sudo npm cache clean -f
+    sudo npm install -g n
+    sudo n stable
 
 ## Usage in your mongoose model
 
